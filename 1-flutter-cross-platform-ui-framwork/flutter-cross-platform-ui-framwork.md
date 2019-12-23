@@ -12,17 +12,7 @@ Flutter与其它大多数框架不同，因为Flutter既不使用WebView（如Co
 
 Flutter所使用的Dart语言支持AOT，在AOT下速度远超JS。同时，Flutter使用自己的渲染引擎来绘制UI，布局数据等由Dart语言直接控制，所以在布局过程中不需要像RN那样要在JavaScript和Native之间通信，可以减少性能开销。
 
-### Cordova
-
-![“cordova”的图片搜索结果](https://www.ishir.com/wp-content/uploads/2019/04/apache-cordova-development-services-1.png)
-
-特点：
-
-- 本地Web代码
-- 平台WebView/UIWebView
-- CodovaJS加载插件
-
-![“flutter engine”的图片搜索结果](https://www.aiyexue.com/Uploads/news/2019-07-07/5d21d38186817.PNG)
+![](https://www.aiyexue.com/Uploads/news/2019-07-07/5d21d38186817.PNG)
 
 ## Flutter Widget
 
